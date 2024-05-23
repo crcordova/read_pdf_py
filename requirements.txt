@@ -1,0 +1,4 @@
+langchain
+pypdf
+openai
+langchain-openai
